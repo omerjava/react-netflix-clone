@@ -1,0 +1,20 @@
+.header-top {
+    background-color: black;
+    opacity: 0.5;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.header .logo {
+    background-image: url('../../assets/logo.png');
+    background-size: cover;
+    width: 170px;
+    height: 80px;
+    position: absolute;
+    top: 0;
+    left: 50px;
+    z-index: 400;
+}
+

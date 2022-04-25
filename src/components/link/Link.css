@@ -1,0 +1,19 @@
+.link {
+  padding: 5px;
+  margin-top: 5px;
+}
+
+.link li {
+  list-style: none;
+}
+
+.link a {
+  padding: 3px;
+  text-decoration: none;
+  color: rgb(105, 104, 104);
+  font-size: 14px;
+}
+
+.link a:hover {
+  text-decoration:underline;
+}
